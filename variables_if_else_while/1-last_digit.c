@@ -11,6 +11,7 @@
 int main(void)
 {
 	int n;
+	int last_digit;
 	char message[30];
 
 	srand(time(0));
